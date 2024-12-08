@@ -38,7 +38,6 @@ public class Produto {
                 "nome='" + nome + '\'' +
                 ", preco=" + preco +
                 ", codigoSKU='" + codigoSKU + '\'' +
-                ", quantidadeEstoque=" + quantidadeEstoque +
                 '}';
     }
 }
