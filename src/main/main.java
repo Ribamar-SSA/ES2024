@@ -47,6 +47,12 @@ public class main {
         System.out.println("listando produtos cadastrados:");
         allService.verificarEstoque();
 
+        System.out.println("realizando a venda de 3 chocolates para o Gabryel");
+        allService.realizarVenda(chocolate,gabryell,3);
+
+        System.out.println("listando produtos cadastrados após a venda:");
+        allService.verificarEstoque();
+
         System.out.println("removendo o ribamar:");
         allService.removerCliente(ribamar);
         System.out.println("listando clientes cadastrados:");
