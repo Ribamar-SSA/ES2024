@@ -6,6 +6,7 @@ public class Produto {
      String codigoSKU;
 
 
+
     public String getCodigoSKU() {
         return codigoSKU;
     }

@@ -12,8 +12,8 @@ public class ProdutoPerecivel extends  Produto{
         this.quantidadeNoEstoque = quantidadeNoEstoque;
     }
 
-    public ProdutoPerecivel() {
-        this.dataValidade = dataValidade;
+    public ProdutoPerecivel(int quantidadeNoEstoque) {
+        this.quantidadeNoEstoque = quantidadeNoEstoque;
     }
 
     public ProdutoPerecivel(String dataValidade) {
@@ -28,5 +28,14 @@ public class ProdutoPerecivel extends  Produto{
         this.dataValidade = dataValidade;
     }
 
-
+    @Override
+    public String toString() {
+        return "ProdutoPerecivel{" +
+                "dataValidade='" + dataValidade + '\'' +
+                ", quantidadeNoEstoque=" + quantidadeNoEstoque +
+                ", nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", codigoSKU='" + codigoSKU + '\'' +
+                '}';
+    }
 }

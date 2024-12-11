@@ -5,7 +5,7 @@ public class Cliente {
     private String email;
     private String telefone;
 
-    public Cliente() {
+    public Cliente(String nome) {
         this.nome = nome;
     }
 

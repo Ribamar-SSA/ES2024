@@ -14,4 +14,14 @@ public class ProdutoDigital extends Produto{
     public void setLicensa(String licensa) {
         this.licenca = licensa;
     }
+
+    @Override
+    public String toString() {
+        return "ProdutoDigital{" +
+                "licenca='" + licenca + '\'' +
+                ", nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", codigoSKU='" + codigoSKU + '\'' +
+                '}';
+    }
 }

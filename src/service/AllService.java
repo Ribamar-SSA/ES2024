@@ -62,7 +62,7 @@ public class AllService {
         }
     }
 
-    private void removerCliente(Cliente cliente) {
+    public void removerCliente(Cliente cliente) {
         repository.getClienteList().remove(cliente);
         System.out.println("o cliente " + cliente.getNome() + "foi removido!");
     }

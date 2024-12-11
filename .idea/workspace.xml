@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4997bbac-538f-4ad3-872b-40c7be6675a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoESvendas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/produto/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/produto/ProdutoDigital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/produto/ProdutoPerecivel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/produto/Venda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repository/SimulacaoRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/AllService.java" afterDir="false" />
+    <list default="true" id="4997bbac-538f-4ad3-872b-40c7be6675a9" name="Changes" comment="projeto-gestao-vendas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ribamar-SSA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ribamar-SSA/ES2024.git&quot;,
+    &quot;accountId&quot;: &quot;0b9ed34e-ed12-4cb4-8ee7-8d548113664a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -52,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/ES2024/POO",
+    "last_opened_file_path": "E:/Spring/springContext/sq-ch5-ex4",
     "onboarding.tips.debug.path": "E:/ES2024/sistema_de_vendas/projetoESvendas/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.language"
   }
@@ -86,6 +84,27 @@
       <option name="presentableId" value="Default" />
       <updated>1733678505256</updated>
     </task>
+    <task id="LOCAL-00001" summary="projeto-gestao-vendas">
+      <option name="closed" value="true" />
+      <created>1733701702167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733701702167</updated>
+    </task>
+    <task id="LOCAL-00002" summary="projeto-gestao-vendas">
+      <option name="closed" value="true" />
+      <created>1733701805624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733701805624</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeto-gestao-vendas" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto-gestao-vendas" />
   </component>
 </project>
